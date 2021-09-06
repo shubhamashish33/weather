@@ -1,5 +1,5 @@
 # Weather
-This is a Weather Web-App ☁
+This is <b>API<b> based Weather Web-App ☁
 ## API Used
 [Open Weather](https://openweathermap.org/current)
 ## Preview
