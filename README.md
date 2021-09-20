@@ -1,5 +1,5 @@
 # Weather
-This is <b>API<b> based Weather Web-App ☁
+This is <b>API<b> based Weather Web-App ☁. The website show weather by searching city names. I have used dynamic icons which changes according to weather of the city.
 ## API Used
 [Open Weather](https://openweathermap.org/current)
 ## Preview
