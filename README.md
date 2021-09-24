@@ -31,7 +31,7 @@ api.openweathermap.org/data/2.5/weather?q=London,uk&appid={API key}
 [Check it out 🚀](https://shubhamashish33.github.io/weather/)
 ## Screenshot
 ![chrome_mVDBjbu2CA](https://user-images.githubusercontent.com/78084828/131009360-8c0f3e0b-0e6c-4b21-a74e-ba17f3968c96.png)
-## Language Used
+## Tools⚙ Used
 1. HTML
 2. CSS
 3. Javascript 
