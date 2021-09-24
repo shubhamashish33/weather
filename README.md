@@ -2,6 +2,31 @@
 This is <b>API<b> based Weather Web-App ☁. The website show weather by searching city names. I have used dynamic icons which changes according to weather of the city.
 ## API Used
 [Open Weather](https://openweathermap.org/current)
+  
+## API Call
+You can call the api by the following methods
+1. By City Names
+2. By City ID
+3. By geographic coordinates
+4. By ZIP code
+``` js
+ api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+```
+``` js  
+api.openweathermap.org/data/2.5/weather?q={city name},{state code}&appid={API key}
+```
+```js
+api.openweathermap.org/data/2.5/weather?q={city name},{state code},{country code}&appid={API key}
+ ```
+### Example of API Calls
+```js
+api.openweathermap.org/data/2.5/weather?q=London&appid={API key}
+```
+```js
+api.openweathermap.org/data/2.5/weather?q=London,uk&appid={API key}
+```
+  
+  
 ## Preview
 [Check it out 🚀](https://shubhamashish33.github.io/weather/)
 ## Screenshot
@@ -15,5 +40,6 @@ This is <b>API<b> based Weather Web-App ☁. The website show weather by searchi
 #### MIT LICENSE
 
 ## Follow Me
-1. [Twiiter](https://twitter.com/imaashish_)
-2. [LinkedIn](https://www.linkedin.com/in/shubham-ashish-81a6a01b2/)
+If you likes this repository don't forget to mark it as star 🌟. \
+<br>
+[![](https://img.shields.io/twitter/follow/imaashish_?style=social)](https://twitter.com/imaashish_)
