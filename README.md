@@ -28,7 +28,7 @@ api.openweathermap.org/data/2.5/weather?q=London&appid={API key}
 api.openweathermap.org/data/2.5/weather?q=London,uk&appid={API key}
 ```
 
-# Demo ⚡
+# Preview ⚡
 ![chrome_Xks6MwRXHM](https://user-images.githubusercontent.com/78084828/144605300-7b9883d5-1517-4d55-9b33-f1881a6d0eb6.png)
 
 ![chrome_a7GIUIpx7Q](https://user-images.githubusercontent.com/78084828/144605366-ed345bb5-505a-4678-adbe-2d9e4f00f328.png)
