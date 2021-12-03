@@ -1,5 +1,6 @@
 # Weather
 This is a **Web-based Weather App**. It allows you to search for weather by city name. It also has dynamic icons that vary with the weather.
+
 [Check it out 🚀](https://shubhamashish33.github.io/weather/)
 # API Used
 [Open Weather API](https://openweathermap.org/current)
