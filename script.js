@@ -57,7 +57,7 @@ const getWeather = async (city) => {
 
     }
     catch (error) {
-        alert('Oops! City Not Found 😓');
+        alert('Oops! City Not Found ☹️');
     }
 
 };
