@@ -14,7 +14,7 @@ You can call the api by the following methods
 - By geographic coordinates
 - By ZIP code
 ``` js
- api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
 ```
 ``` js  
 api.openweathermap.org/data/2.5/weather?q={city name},{state code}&appid={API key}
